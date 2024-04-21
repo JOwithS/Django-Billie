@@ -1,0 +1,103 @@
+body.artista {
+    background-color: #F2CDAF;
+}
+
+body.index {
+    background-color: #F2CDAF;
+}
+
+
+
+body.registro{
+    background-color: #F2CDAF;
+}
+
+body.inicio{
+    background-color: #F2CDAF;
+}
+.container {
+    margin-top: 50px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+
+/*index.html*/
+.container2{
+    text-align: center;
+}
+.container a {
+    color: #330000;
+    text-decoration: none;
+}
+
+.container img {
+    display: block; /* Asegura que la imagen sea un bloque */
+    margin: 0 auto; /* Centra horizontalmente */
+}
+.container5{
+    margin-top: 50px;
+
+}
+.contenedorPRIN1 {
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+    padding-top: 30px;
+    background-color: #D2B48C;
+    margin-right: 30px;
+  }
+.contenedor444 {
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+    padding-top: 30px;
+    background-color: #D2B48C;
+    margin-right: 30px;
+  }
+
+.contenedorPRIN1 li {
+    list-style-type: none; /* Elimina el marcador de lista */
+  }
+.contenedor444 li {
+    list-style-type: none; /* Elimina el marcador de lista */
+  }
+.contenedor444:not(:first-child) {
+    border-top: 1px solid black;
+  }
+.texto1 {
+    font-size: 18px;
+    color: #333;
+    margin-left: 30px;
+  }
+
+
+/*registro*/
+
+.container3 {
+    margin-top: 40px;
+    padding: 100px;
+}
+
+/*inicio sesion*/
+.container4 {
+    margin-top: 40px;
+    padding: 100px;
+    
+    
+}
+nav {
+    background-color: #D2B48C;
+  }
+  
+  .video {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh /* O ajusta la altura según sea necesario */
+  }
+  .video video {
+    max-width: 100%; /* Para asegurarte de que el video no exceda el ancho del contenedor */
+  }
