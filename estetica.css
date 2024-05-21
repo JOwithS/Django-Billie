@@ -6,6 +6,8 @@ body.index {
     background-color: #F2CDAF;
 }
 
+body.daya {
+  background-color: #AF7AC5; 
 
 
 body.registro{
@@ -14,6 +16,9 @@ body.registro{
 
 body.inicio{
     background-color: #F2CDAF;
+}
+body.compra{
+  background-color: #F2CDAF;
 }
 .container {
     margin-top: 50px;
